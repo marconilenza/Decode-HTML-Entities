@@ -1,2 +1,2 @@
-# Parse-HTML-Entities
-Decode HTML Entities with Python
+# Decode HTML Entities
+Decode HTML Entities with Python. Useful for webscraping applications.
